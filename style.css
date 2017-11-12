@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.error {
+  display: none;
+  color: red;
+}
+
+input {
+  margin: 1em 0;
+  display: inline-block;
+}
